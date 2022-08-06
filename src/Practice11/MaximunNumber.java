@@ -28,7 +28,7 @@ public class MaximunNumber
 	 } 
    System.out.println(min);
    
-   
+   System.out.println("aaa");
    
    
 }  
